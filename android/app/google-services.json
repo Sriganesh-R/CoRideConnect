@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982986596756",
+    "project_id": "corideshare-a9cf0",
+    "storage_bucket": "corideshare-a9cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982986596756:android:83b39cc963b84315896f81",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAKFzKhfQK2jVIQZGwpPCc40v6w2pf1bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
